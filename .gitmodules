@@ -1,15 +1,11 @@
 [submodule "limbo/libft"]
 	path = limbo/libft
-	url = ./limbo/libft/
 [submodule "lust/ft_printf"]
 	path = lust/ft_printf
-	url = ./lust/ft_printf
 [submodule "lust/get_next_line"]
 	path = lust/get_next_line
-	url = ./lust/get_next_line/
 [submodule "lust/born2beroot"]
 	path = lust/born2beroot
-	url = ./lust/born2beroot
 [submodule "limbo/libft/"]
 	url = https://github.com/BeerB34r/libft.git
 [submodule "lust/born2beroot/"]
