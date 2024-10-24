@@ -1,16 +1,12 @@
 [submodule "limbo/libft"]
 	path = limbo/libft
+	url = https://github.com/BeerB34r/libft.git
 [submodule "lust/ft_printf"]
 	path = lust/ft_printf
+	url = https://github.com/BeerB34r/ft_printf.git
 [submodule "lust/get_next_line"]
 	path = lust/get_next_line
+	url = https://github.com/BeerB34r/get_next_line.git
 [submodule "lust/born2beroot"]
 	path = lust/born2beroot
-[submodule "limbo/libft/"]
-	url = https://github.com/BeerB34r/libft.git
-[submodule "lust/born2beroot/"]
 	url = https://github.com/BeerB34r/born2beroot.git
-[submodule "lust/ft_printf/"]
-	url = https://github.com/BeerB34r/ft_printf.git
-[submodule "lust/get_next_line/"]
-	url = https://github.com/BeerB34r/get_next_line.git
