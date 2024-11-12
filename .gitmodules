@@ -19,3 +19,6 @@
 [submodule "treachery"]
 	path = treachery
 	url = https://github.com/BeerB34r/treachery.git
+[submodule "gluttony/fract_ol"]
+	path = gluttony/fract_ol
+	url = https://github.com/BeerB34r/fract_ol.git
