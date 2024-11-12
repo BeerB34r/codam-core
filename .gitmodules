@@ -10,3 +10,12 @@
 [submodule "lust/born2beroot"]
 	path = lust/born2beroot
 	url = https://github.com/BeerB34r/born2beroot.git
+[submodule "gluttony/minitalk"]
+	path = gluttony/minitalk
+	url = https://github.com/BeerB34r/minitalk.git
+[submodule "gluttony/push_swap"]
+	path = gluttony/push_swap
+	url = https://github.com/BeerB34r/push_swap.git
+[submodule "treachery"]
+	path = treachery
+	url = https://github.com/BeerB34r/treachery.git
