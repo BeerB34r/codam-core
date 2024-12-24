@@ -22,3 +22,6 @@
 [submodule "gluttony/fract_ol"]
 	path = gluttony/fract_ol
 	url = https://github.com/BeerB34r/fract_ol.git
+[submodule "greed/philosophers"]
+	path = greed/philosophers
+	url = https://github.com/BeerB34r/philosophers.git
